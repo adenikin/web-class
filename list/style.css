@@ -1,0 +1,23 @@
+ul{
+    list-style-type:square;
+    background: rgb(48, 48, 201);
+    padding: 20px;
+}
+ol{
+    list-style-type:lower-alpha;
+    background: red;
+    padding: 20px;
+}
+ul.cars{
+    list-style-position: inside;
+}
+ul li{
+    background: lightblue;
+    padding: 10px;
+    color:rgb(124, 98, 184)
+}
+ol li{
+    background: pink;
+    margin: 5px;
+    padding-left: 5px;
+}
